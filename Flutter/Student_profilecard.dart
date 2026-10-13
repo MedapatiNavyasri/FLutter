@@ -41,7 +41,7 @@ class StudentProfile extends StatelessWidget {
               ),
               const SizedBox(height: 20),
               const Text(
-                "Student Name: Kuraganti Neha Joshitha",
+                "Student Name: Medapati Navya sri",
                 style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
@@ -50,7 +50,7 @@ class StudentProfile extends StatelessWidget {
               ),
               const SizedBox(height: 10),
               const Text(
-                "Roll No: 24PA1A05D4",
+                "Roll No: 24PA1A05E9",
                 style: TextStyle(fontSize: 20),
               ),
               const SizedBox(height: 10),
@@ -101,7 +101,7 @@ class StudentProfile extends StatelessWidget {
                   children: [
                     Icon(Icons.email, color: Colors.red),
                     SizedBox(width: 10),
-                    Text("24pa1a05d4@vishnu.edu.in"),
+                    Text("24pa1a05e9@vishnu.edu.in"),
                   ],
                 ),
               ),
